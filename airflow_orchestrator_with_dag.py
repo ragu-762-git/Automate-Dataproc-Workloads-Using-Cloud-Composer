@@ -1,6 +1,4 @@
 """
-Author : @ Anjan GCP Data Engineering
-
 Example Airflow DAG to demo below Dataproc use cases 
 Airflow operators for managing a dataproc cluster 
     1. Create Dataproc cluster
