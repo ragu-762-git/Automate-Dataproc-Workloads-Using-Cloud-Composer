@@ -1,6 +1,4 @@
 """
-
-Author : @ Anjan GCP Data Engineering
 This script is created to demo below concepts
   1. Create Spark session on Dataproc cluster
   2. Read input data from Big Query table
