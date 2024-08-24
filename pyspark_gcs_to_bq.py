@@ -1,6 +1,8 @@
 """
 BigQuery I/O PySpark Demo — GCS—> Aggregate data —> write results to BigQuery
 gs://gcpdatateeng-demos/scripts/pyspark_gcs_to_bq.py
+
+The scripts reads the data from GCS bucket and writes it into BQ.
 """
 # Import required modules and packages
 from pyspark.sql import SparkSession
